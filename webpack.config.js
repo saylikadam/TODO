@@ -15,7 +15,7 @@ const cssPlugin = new MiniCSSPlugin({
 const config = (devMode) => ({
     entry: './src/index.js',
     devServer: {
-        port: 7000
+        port: 5000
     },
     module: {
         rules: [

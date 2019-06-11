@@ -1,4 +1,4 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Home from "./components/home/Home";
-ReactDOM.render(<Home/>, document.getElementById('app'));
+import Dashboard from "./components/dashboard/Dashboard";
+ReactDOM.render(<Dashboard/>, document.getElementById('app'));
